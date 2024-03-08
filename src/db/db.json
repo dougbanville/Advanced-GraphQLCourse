@@ -8,6 +8,33 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "master@code.com",
+      "password": "kldajlkfjlsdj",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1709824895589,
+      "id": "nyzPaLs1X20a8ZMRqNVfm"
+    },
+    {
+      "email": "master2@code.com",
+      "password": "kldajlkfjlsdj",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1709825364004,
+      "id": "tAjws_IaHIO5__VL3TH3C"
+    },
+    {
+      "email": "master3@code.com",
+      "password": "kldajlkfjlsdj",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1709894839941,
+      "id": "DbTKuKFAVI4WkimRnyabB"
     }
   ],
   "posts": [],
