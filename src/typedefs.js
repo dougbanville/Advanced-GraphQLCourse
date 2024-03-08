@@ -1,4 +1,4 @@
-const gql = require('graphql-tag')
+const gql = require("graphql-tag");
 
 module.exports = gql`
   enum Theme {
@@ -101,4 +101,8 @@ module.exports = gql`
     signin(input: SigninInput!): AuthUser!
   }
 
-`
+  # Add a subscription here and a resolver in resolvers file
+  type Subscription {
+    newPost: Post!
+  }
+`;
